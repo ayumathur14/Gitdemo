@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 driver=webdriver.Chrome() #webdriver-moddule->Chrome class, driver->object
-
+print("this is day1 code")
 #driver1=webdriver. Firefox() #it will open firefox browser
 
 #driver2=webdriver. Edge() # #it will open edge browser
