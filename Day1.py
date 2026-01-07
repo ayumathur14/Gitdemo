@@ -13,6 +13,7 @@ driver.get("https://icma-dev.amgen.com/ADDSafety/#/login")
 
 driver.maximize_window()
 print("This is day1 code for python selenium")
+#american guy here
 driver.find_element(By.ID, "UserName").send_keys("amathu01")
 
 #driver2.get("https://icma-dev.amgen.com/ADDSafety/#/login")
